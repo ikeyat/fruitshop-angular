@@ -1,0 +1,20 @@
+#orderList {
+    border: 1px solid rgb(212,212,212);
+    width: 700px; 
+    height: 200px;
+    font-size: 10pt;
+}
+
+#supportingCustomerList {
+    border: 1px solid rgb(212,212,212);
+    width: 250px; 
+    height: 200px;
+    font-size: 9pt;
+}
+
+#supportingProductList {
+    border: 1px solid rgb(212,212,212);
+    width: 250px; 
+    height: 200px;
+    font-size: 9pt;
+}
